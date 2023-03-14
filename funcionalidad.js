@@ -4,7 +4,7 @@ var operacion;
 
 function init(){
     //variables 
-    var resultado = document.getElementById("resultado");
+    let resultado = document.getElementById("resultado");
     var reset = document.getElementById("reset");
     var suma = document.getElementById("suma");
     var resta = document.getElementById("resta");
